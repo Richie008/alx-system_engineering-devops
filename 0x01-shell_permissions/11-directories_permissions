@@ -1,2 +1,2 @@
 #!/bin/bash
-for d in */; do chmod +x "$d"; done
+chmod -R 111 /alx-system_engineering-devops/
